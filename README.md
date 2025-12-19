@@ -15,6 +15,15 @@ This is a **practice Flutter project** created to learn:
 - Dart
 - SharedPreferences
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Add Task
+![Add Task](screenshots/add_task.png)
+
+
 ## Note
 This is **not a full task manager**, only a learning project.
 

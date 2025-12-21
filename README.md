@@ -18,10 +18,10 @@ This is a **practice Flutter project** created to learn:
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](./screenshots/home.png)
 
 ### Add Task
-![Add Task](screenshots/add_task.png)
+![Add Task](./screenshots/add_task.png)
 
 
 ## Note
